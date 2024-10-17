@@ -1,0 +1,1 @@
+[05-Oct-2024 02:51:59 UTC] PHP Warning:  Use of undefined constant allow_url_fopen - assumed 'allow_url_fopen' (this will throw an Error in a future version of PHP) in /home/candelar/public_html/wp-content/plugins/download-media-library/download-media-library.php on line 19

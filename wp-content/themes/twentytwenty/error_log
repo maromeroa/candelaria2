@@ -1,0 +1,4 @@
+[28-Apr-2022 08:38:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/candelar/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/candelar/public_html/wp-content/themes/twentytwenty/index.php on line 17
