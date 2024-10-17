@@ -1,0 +1,387 @@
+@font-face {
+    font-family: Quicksand;
+    src: url("../../fonts/Quicksand_Light.otf") format("opentype");
+}
+@font-face {
+    font-family: Quicksand;
+    src: url("../../fonts/Quicksand_Bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: Quicksand;
+    src: url("../../fonts/Quicksand_Bold_Oblique.otf") format("opentype");
+    font-weight: bold;
+    font-style:italic;
+}
+
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url("../../fonts/HelveticaNeue-UltraLight.otf") format("opentype");
+}
+@font-face {
+    font-family: HelveticaNeue;
+    src: url("../../fonts/HelveticaNeue-UltraLigCond.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: HelveticaNeue;
+    src: url("../../fonts/HelveticaNeue-UltraLigExtObl.otf") format("opentype");
+    font-weight: bold;
+    font-style:italic;
+}
+
+
+
+.col-full{
+  width:100% !important;
+  max-width:100%;
+}
+
+body{
+  font-family: Quicksand;
+  background:#f5f5f5;
+}
+#page{
+  background:#f5f5f5;
+}
+#masthead{
+  background:#FFF !important;
+}
+#container-header-menu{
+}
+#container-header-menu ul{
+	list-style-type:none;
+  overflow:auto;
+}
+
+#container-header-menu ul li{
+  float: left;
+  list-style: none;
+  text-align: center;
+  display:block;
+  font-size:18px;
+}
+
+
+#container-header-menu ul li a {
+  text-decoration: none;
+  color: #000;
+  display: block;
+  padding-left:1.4em;
+  padding-right:1.4em;
+  text-transform: lowercase;
+}
+
+#container-header-menu ul li a:hover {
+  text-decoration: none;
+  color: #b9a085;
+}
+
+#content, #content .col-full , #content .col-full .woocommerce ,  #content .col-full .woocommerce #primary , #content .col-full .woocommerce #primary, #main{
+  margin:0px;
+  padding:0px;
+}
+
+
+#header-menu-buttons{
+  list-style-type:none;
+  overflow:auto;
+}
+#header-menu-buttons li{
+  float: right;
+  list-style: none;
+  text-align: center;
+  margin-right: 5px;
+  display:block;
+  font-size:20px;
+}
+
+.header-right-button{
+  background:black;
+  border-radius:50px;
+  padding:15px;
+  color:white;
+}
+
+
+.footer-menu{
+  display:flex;
+  list-style-type:none;
+  padding:0px;
+  margin:0px;
+  overflow:auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.footer-menu li{
+  display:block;
+  margin:0px;
+  padding:0px;
+}
+
+.footer-menu li a{
+  text-decoration:none !important;
+  font-size:20px;
+  text-transform: lowercase;
+}
+
+
+.site-header{
+  padding-top:0.3em;
+}
+#container-header-menu{
+  padding-top:1em;
+}
+#header-menu{
+  margin:0px auto;
+  padding:0px;
+}
+#header-main{
+    padding-bottom: 30px;
+}
+.header-logo{
+  padding-top: 12px;
+}
+
+.content-area{
+  width:100% !important;
+}
+
+.hentry{
+  margin:0px !important;
+}
+
+.content-area, .widget-area{
+  margin-bottom:0px;
+}
+
+.woocommerce-cart-form{
+  padding:20px;
+}
+
+.shop_table{
+  border:1px solid black;
+}
+
+table.cart .product-thumbnail img{
+  border:1px solid black;
+  border-radius:0px;
+  width:200px;
+  height:200px;
+  max-width:300px !important;
+}
+
+td.product-name{
+  text-align:center !important;
+  color:black;
+}
+td.product-name a{
+  color:black;
+}
+
+.season-shorcut{
+  display:block;
+  color:black;
+}
+.season-shorcut:hover{
+  color:black;
+  text-decoration:none;
+}
+.season-shorcut div{
+  /*text-shadow: 2px 2px 5px #FFF;*/
+  top:50%;
+  text-align:center;
+  display:block;
+  font-size:40px;
+  color:white;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-position:center center;
+  overflow:auto;
+  height:60vh;
+  margin:5px;
+}
+
+.cart-candelaria{
+  position:relative;
+}
+.cart-candelaria .count{
+  position: absolute;
+  padding: 0px;
+  top: 11px;
+  color: white;
+  left: 12px;
+  font-size:10px;
+}
+#site-header-cart{
+  width:200px;
+  position:absolute;
+  top:10px;
+  right:60px;
+}
+
+#site-header-cart:first-child a {
+  float:right;
+}
+
+
+.candelaria-season-title{
+  position:absolute;
+  top:50%;
+  color:white;
+  width:100%;
+  text-align:center;
+  line-height: 20px;
+}
+
+.header-buttons{
+  position:absolute;
+  right:100px;
+  top:10px;
+  list-style-type:none;
+}
+
+.header-buttons li{
+  display:inline-block;
+}
+.site-footer{
+  background:#FFF;
+}
+#masthead{
+  padding-top:15px;
+}
+
+.container-product-shop a{
+  text-decoration:none;
+}
+.container-product-shop a:hover{
+  text-decoration:none;
+}
+.container-product-shop .woocommerce-loop-product__title{
+  font-size:15px;
+  text-align:right;
+  padding:10px;
+  text-transform: lowercase;
+}
+
+.container-product-shop .woocommerce-LoopProduct-link.woocommerce-loop-product__link .onsale{
+  position:absolute;
+  top:30px;
+  left:30px;
+  border-radius:100px;
+  width:50px;
+  height:50px;
+  padding-top:20px;
+  line-height: 5px;
+  text-align:center;
+  font-size:10px;
+  background:gray;
+  color:white;
+}
+.container-product-shop .add_to_cart_button{
+  display:none;
+}
+.container-product-shop .price{
+  color:black;
+  text-align:right;
+  font-weight: bold;
+  display:block;
+}
+.container-product-shop .price del{
+  font-size:12px;
+  color:black;
+}
+.container-product-shop .price ins{
+  font-size:15px;
+  color:black;
+  font-weight:bold;
+}
+
+.header-mobile-version{
+  display:none
+}
+.header-desktop-version{
+  display:block;
+}
+.mobile-version-sidemenu{
+  margin-top:20px;
+  padding:10px;
+}
+#mobile-version-sidemenu{
+  display:none;
+}
+@media (max-width: 1000px) {
+  .header-desktop-version {
+    display:none;
+  }
+  .header-mobile-version {
+    display:block;
+  }
+  #header-menu{
+    width:360px;
+    margin: 0;
+  }
+  #container-header-menu ul li {
+      float: left;
+      width: 100%;
+      text-align: left;
+  }
+}
+
+.header-mobile-version .site-header-cart{
+  top:0px !important;
+  right:32px !important;
+}
+
+.storefront-handheld-footer-bar{
+  display:none;
+}
+a:focus,
+.focus a {
+	outline: none !important;
+}
+
+.woocommerce-info{
+	background:#b1b0d2 !important;
+}
+.woocommerce-message{
+	background:#cca8ce !important;
+}
+.woocommerce-error{
+	background:#decfd6 !important;
+}
+
+footer.site-footer{
+	padding: 30px 0px 30px 0px !important;
+}
+#contact-form-candelaria input{
+background:rgba(255,255,255,0.7);
+	display:block;
+	margin:0px auto;
+}
+#contact-form-candelaria textarea{
+background:rgba(255,255,255,0.7);
+}
+
+#contact-form-candelaria p{
+	display:block;
+	margin:0px auto;
+}
+
+#contact-form-candelaria{
+	width:381px;
+	margin:0px auto;
+}
+
+input:focus,textarea:focus{
+	outline: none !important;
+}
+.form-row label {
+    display: block;
+    min-width: 300px;
+}
+textarea#order_comments {
+    min-width: 500px;
+}

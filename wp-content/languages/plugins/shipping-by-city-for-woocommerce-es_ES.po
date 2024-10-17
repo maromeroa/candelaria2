@@ -1,0 +1,53 @@
+# Translation of Plugins - Shipping by City for Woocommerce - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Shipping by City for Woocommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-03 07:18:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Shipping by City for Woocommerce - Development (trunk)\n"
+
+#: class-shipping-by-city-for-woocommerce.php:94
+msgid "<strong>Activation Error:</strong> You must have the <a href=\"https://wordpress.org/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> plugin installed and activated for the Shipping by City for Woocommerce to activate."
+msgstr "<strong>Error de activación:</strong> debes tener el plugin <a href=\"https://es.wordpress.org/plugins/woocommerce/\" target=\"_blank\">WooCommerce</a> instalado y activado para poder activar Shipping by City for WooCommerce."
+
+#: includes/cmetric_sbcfw_setting_functions.php:101
+msgid "Enter each cities per line for this Zone"
+msgstr "Introduce una ciudad por línea para esta zona"
+
+#: includes/cmetric_sbcfw_setting_functions.php:79
+msgid "Enable section"
+msgstr "Activar la sección"
+
+#: includes/cmetric_sbcfw_setting_functions.php:78
+msgid "Enable Shipping by Cities"
+msgstr "Activar el envío por ciudades"
+
+#: includes/cmetric_sbcfw_setting_functions.php:71
+msgid "Shipping Zone by city"
+msgstr "Zona de envío por ciudad"
+
+#: includes/cmetric_sbcfw_setting_functions.php:15
+#: includes/cmetric_sbcfw_setting_functions.php:34
+msgid "Advance Shipping Zone"
+msgstr "Zona de envío avanzada"
+
+#. Author URI of the plugin
+msgid "https://www.c-metric.com/"
+msgstr "https://www.c-metric.com/"
+
+#. Author of the plugin
+msgid "C-Metric"
+msgstr "C-Metric"
+
+#. Description of the plugin
+msgid "Calculate Shipping method by City for Woocommerce"
+msgstr "Calcula el método de envío por ciudad para WooCommerce"
+
+#. Plugin Name of the plugin
+msgid "Shipping by City for Woocommerce"
+msgstr "Shipping by City for WooCommerce"

@@ -1,0 +1,24 @@
+[28-Apr-2022 08:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/candelar/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/candelar/public_html/wp-content/themes/twentynineteen/index.php on line 17
+[06-May-2022 05:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[19-May-2022 15:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[19-May-2022 15:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[27-May-2022 03:08:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[14-Jul-2022 22:21:14 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/candelar/public_html/wp-content/themes/twentynineteen/404.php on line 12
